@@ -24,6 +24,7 @@ CONFIG = {
     # Github Pages configuration
     'github_pages_branch': 'master',
     'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
+    'CNAME' : 'jeffkrol.com',
     # Port for `serve`
     'port': 8000,
 }
@@ -99,7 +100,6 @@ def livereload(c):
     # Serve output path on configured port
     server.serve(port=CONFIG['port'], root=CONFIG['deploy_path'])
 
-
 @task
 def publish(c):
     """Publish to production via rsync"""
@@ -116,5 +116,6 @@ def gh_pages(c):
     """Publish to GitHub Pages"""
     preview(c)
     c.run('ghp-import -b {github_pages_branch} '
+          '-c {CNAME} '
           '-m {commit_message} '
           '{deploy_path} -p'.format(**CONFIG))
