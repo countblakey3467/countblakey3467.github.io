@@ -13,6 +13,6 @@ These first two recordings were singles we recorded in the early stages of the g
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3537383249/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://thekilltet.bandcamp.com/track/static">Static by The Killtet</a></iframe>
 
-This last recording was from our last show at local music store and venue, Bernunzio's, in downtown Rochester. This is %100 low-fi, but the recording captures the essense of what we were trying to acheive. High energy, communicative, spontanious, and just a little reckless at times is how a recall the perforance after years past.
+This last recording was from our last show at local music store and venue, Bernunzio's, in downtown Rochester. This is 100% low-fi, but the recording captures the essense of what we were trying to acheive. High energy, communicative, spontanious, and just a little reckless at times is how a recall the perforance after years past.
 
 <iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=2183408281/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="http://thekilltet.bandcamp.com/album/live-at-bernunzios">Live at Bernunzio&#39;s by The Killtet</a></iframe>
