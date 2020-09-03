@@ -1,6 +1,6 @@
 Title: About
 
-<img style="margin-right: 10px; float: left; width: 40%;" src="/images/selfie1.jpg">
+<img style="margin-right: 10px; float: left; width: 40%;" src="{attach}/images/selfie1.jpg">
 
 Jeff Krol is a drummer, composer, and educator based in New York City.  He holds a BM from The Eastman School of Music and a MM from The Manhattan School of Music.
 

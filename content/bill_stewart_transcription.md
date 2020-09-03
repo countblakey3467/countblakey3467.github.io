@@ -15,4 +15,4 @@ Personnel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lyUYDX2QQig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Click <a href="/pdfs/bill_stewart_beautiful_love.pdf" target="_blank">here</a> to download a pdf of the transcription.
+Click <a href="{attach}/pdfs/bill_stewart_beautiful_love.pdf" target="_blank">here</a> to download a pdf of the transcription.
