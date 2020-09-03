@@ -15,7 +15,7 @@ DEFAULT_LANG = 'en'
 
 THEME = 'notmyidea'
 
-STATIC_PATHS = ['pdfs']
+STATIC_PATHS = ['pdfs', 'images']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
