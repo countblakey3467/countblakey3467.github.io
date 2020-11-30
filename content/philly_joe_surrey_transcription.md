@@ -1,4 +1,4 @@
-Title: Philly Joe Jones Transcription - Surrey With A Fringe On Top
+Title: Philly Joe Jones Transcription - Surrey With The Fringe On Top
 Date: 2020-11-30 
 Category: Transcriptions
 Tags: Philly Joe Jones
