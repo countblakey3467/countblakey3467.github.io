@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Jeff Krol - Transcriptions</title><link href="https://jeffkrol.com/" rel="alternate"></link><link href="https://jeffkrol.com/feeds/transcriptions.atom.xml" rel="self"></link><id>https://jeffkrol.com/</id><updated>2020-11-30T00:00:00-05:00</updated><subtitle>Drummer, Composer, Educator</subtitle><entry><title>Philly Joe Jones Transcription - Surrey With The Fringe On Top</title><link href="https://jeffkrol.com/philly-joe-jones-transcription-surrey-with-the-fringe-on-top.html" rel="alternate"></link><published>2020-11-30T00:00:00-05:00</published><updated>2020-11-30T00:00:00-05:00</updated><author><name>Jeff Krol</name></author><id>tag:jeffkrol.com,2020-11-30:/philly-joe-jones-transcription-surrey-with-the-fringe-on-top.html</id><content type="html">&lt;dl&gt;
-&lt;dt&gt;Album Information&lt;/dt&gt;
-&lt;dd&gt;Track - Surrey With The Fringe On Top&lt;/dd&gt;
-&lt;dd&gt;Album - Newk's Time, 1957 &lt;/dd&gt;
-&lt;dd&gt;Artist - Sonny Rollins&lt;/dd&gt;
-&lt;dt&gt;Personnel&lt;/dt&gt;
-&lt;dd&gt;Sonny Rollins - Tenor Saxophone&lt;/dd&gt;
-&lt;dd&gt;Philly Joe Jones - Drums&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BEahLwK_3zQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Click &lt;a href="https://jeffkrol.com/pdfs/the_surrey_with_a_fringe_on_top.pdf" target="_blank"&gt;here&lt;/a&gt; to download a pdf of the transcription.&lt;/p&gt;</content><category term="Transcriptions"></category><category term="Philly Joe Jones"></category></entry><entry><title>Virgil Donati Transcription - The Quiet Place</title><link href="https://jeffkrol.com/virgil-donati-transcription-the-quiet-place.html" rel="alternate"></link><published>2020-09-13T00:00:00-05:00</published><updated>2020-09-13T00:00:00-05:00</updated><author><name>Jeff Krol</name></author><id>tag:jeffkrol.com,2020-09-13:/virgil-donati-transcription-the-quiet-place.html</id><content type="html">&lt;dl&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Jeff Krol - Transcriptions</title><link href="https://jeffkrol.com/" rel="alternate"></link><link href="https://jeffkrol.com/feeds/transcriptions.atom.xml" rel="self"></link><id>https://jeffkrol.com/</id><updated>2020-09-13T00:00:00-05:00</updated><subtitle>Drummer, Composer, Educator</subtitle><entry><title>Virgil Donati Transcription - The Quiet Place</title><link href="https://jeffkrol.com/virgil-donati-transcription-the-quiet-place.html" rel="alternate"></link><published>2020-09-13T00:00:00-05:00</published><updated>2020-09-13T00:00:00-05:00</updated><author><name>Jeff Krol</name></author><id>tag:jeffkrol.com,2020-09-13:/virgil-donati-transcription-the-quiet-place.html</id><content type="html">&lt;dl&gt;
 &lt;dt&gt;Personnel&lt;/dt&gt;
 &lt;dd&gt;Marco Sfogli - Guitar&lt;/dd&gt;
 &lt;dd&gt;Junior Braguinha - Bass&lt;/dd&gt;
@@ -32,4 +21,15 @@
 &lt;/dl&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lyUYDX2QQig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Click &lt;a href="https://jeffkrol.com/pdfs/bill_stewart_beautiful_love.pdf" target="_blank"&gt;here&lt;/a&gt; to download a pdf of the transcription.&lt;/p&gt;</content><category term="Transcriptions"></category><category term="Bill Stewart"></category></entry></feed>
+&lt;p&gt;Click &lt;a href="https://jeffkrol.com/pdfs/bill_stewart_beautiful_love.pdf" target="_blank"&gt;here&lt;/a&gt; to download a pdf of the transcription.&lt;/p&gt;</content><category term="Transcriptions"></category><category term="Bill Stewart"></category></entry><entry><title>Philly Joe Jones Transcription - Surrey With The Fringe On Top</title><link href="https://jeffkrol.com/philly-joe-jones-transcription-surrey-with-the-fringe-on-top.html" rel="alternate"></link><published>2020-09-01T00:00:00-05:00</published><updated>2020-09-01T00:00:00-05:00</updated><author><name>Jeff Krol</name></author><id>tag:jeffkrol.com,2020-09-01:/philly-joe-jones-transcription-surrey-with-the-fringe-on-top.html</id><content type="html">&lt;dl&gt;
+&lt;dt&gt;Album Information&lt;/dt&gt;
+&lt;dd&gt;Track - Surrey With The Fringe On Top&lt;/dd&gt;
+&lt;dd&gt;Album - Newk's Time, 1957 &lt;/dd&gt;
+&lt;dd&gt;Artist - Sonny Rollins&lt;/dd&gt;
+&lt;dt&gt;Personnel&lt;/dt&gt;
+&lt;dd&gt;Sonny Rollins - Tenor Saxophone&lt;/dd&gt;
+&lt;dd&gt;Philly Joe Jones - Drums&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BEahLwK_3zQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Click &lt;a href="https://jeffkrol.com/pdfs/the_surrey_with_a_fringe_on_top.pdf" target="_blank"&gt;here&lt;/a&gt; to download a pdf of the transcription.&lt;/p&gt;</content><category term="Transcriptions"></category><category term="Philly Joe Jones"></category></entry></feed>
